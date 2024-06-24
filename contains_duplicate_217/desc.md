@@ -18,7 +18,7 @@ Output: true
 
 Constraints:
 
-1 <= nums.length <= 105
--109 <= nums[i] <= 109
+1 <= nums.length <= 10^5
+-10^9 <= nums[i] <= 10^9
 
 [link](https://leetcode.com/problems/contains-duplicate/)
